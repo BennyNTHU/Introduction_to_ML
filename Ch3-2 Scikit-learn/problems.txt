@@ -1,0 +1,3 @@
+1. tree的圖不知為何有錯
+2.random forest 和 tree 的正確率很怪
+3. random forest 的 k, n, d怎麼從code看出來?
